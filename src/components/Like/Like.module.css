@@ -1,0 +1,8 @@
+.heading {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  color: rgb(223, 57, 85);
+  font-weight: 100;
+}
+.liked {
+  fill: rgb(223, 57, 85);
+}
